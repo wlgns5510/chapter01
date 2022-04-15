@@ -17,6 +17,7 @@ public class Ex04 {
 	//한글자 이상 표시할때는 String사용 S는 대문자사용
 		String str = "안녕하세요";
 		System.out.println(str);
+		
 	}
 
 }
